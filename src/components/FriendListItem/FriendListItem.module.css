@@ -1,0 +1,27 @@
+.item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+.image{
+    width: 100px;
+    height: auto;
+    max-width: 100%;
+    object-fit: contain;
+}
+.name{
+    font-size: 26px;
+    margin: 20px 0 10px;
+}
+.status{
+    font-size: 26px;
+    margin: 0;
+}
+.online{
+    color: green;
+}
+.offline{
+    color: red;
+}
