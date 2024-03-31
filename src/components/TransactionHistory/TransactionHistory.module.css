@@ -8,15 +8,16 @@
  }
 
  .table th {
-     background: #ccc;
+    background: #1F1F1F;
+    color: #fff;
  }
 
  .table th,
  td {
-     border: 1px solid #ccc;
+     border: 1px solid #000;
      padding: 8px;
  }
 
  .table tr:nth-child(even) {
-     background: #efefef;
+     background: #C9C9C9;
  }
